@@ -3,8 +3,10 @@
   font-family: Arial,Helvetica, sans-serif;
 }
 
-body
-{ 
-background: #00ff00 url('http://www.flickr.com/photos/90690046@N03/13296516353/') no-repeat fixed center; 
+body {
+background:url(http://www.flickr.com/photos/90690046@N03/13296516353/);
+background-color: #000;
+background-attachment: fixed;
+background-position: bottom;
+background-repeat: no-repeat;
 }
-
